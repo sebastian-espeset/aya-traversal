@@ -1,0 +1,15 @@
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\bin\Debug\net7.0\BitmapConsoleApplication.exe
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\bin\Debug\net7.0\BitmapConsoleApplication.deps.json
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\bin\Debug\net7.0\BitmapConsoleApplication.runtimeconfig.json
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\bin\Debug\net7.0\BitmapConsoleApplication.dll
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\bin\Debug\net7.0\BitmapConsoleApplication.pdb
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\BitmapConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\BitmapConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\BitmapConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\BitmapConsoleApplication.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\BitmapConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\BitmapConsoleApplication.dll
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\refint\BitmapConsoleApplication.dll
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\BitmapConsoleApplication.pdb
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\BitmapConsoleApplication.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Desktop\aya\bitmap-traversal\BitmapConsoleApplication\obj\Debug\net7.0\ref\BitmapConsoleApplication.dll
