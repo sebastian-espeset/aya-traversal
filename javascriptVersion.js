@@ -31,12 +31,12 @@ const allNeighbors=( matrix, column, row, value )=>{
   return false;
 };
 
-const centerFinder = (graph) => {
+const centerFinder = (matrix) => {
   let centerCoords = [];
   for( rows=0; rows < 10 ; rows++){
     for(columns=0; columns < 10 ; columns++){
-      if(graph[rows][columns]==1){
-        if(allNeighbors(graph,columns,rows,1)){
+      if(matrix[rows][columns]==1){
+        if(allNeighbors(matrix,columns,rows,1)){
           centerCoords.push([columns,rows]);
         };
       };
